@@ -34,7 +34,8 @@ The project demonstrates how data analysts can build dashboards from scratch, co
 ---
 
 ## 📷 Dashboard Preview  
-![Dashboard Preview](images/dashboard-preview.png)  
+<img width="1163" height="655" alt="image" src="https://github.com/user-attachments/assets/de5abf77-d84d-4760-8f00-39ced828b7e4" />
+  
 
 ---
 
